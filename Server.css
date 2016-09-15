@@ -1,0 +1,38 @@
+body { padding-top: 70px; }
+
+#top-menu{
+
+	text-align: center;
+	position: relative;
+	content: center;
+	
+}
+
+#into {
+
+	background-repeat: no-repeat;
+}
+#Willkommen{
+
+	color:#000000;
+	font-weight: 2px;
+	font-family: Arial;
+	text-align: center;
+	position: relative;
+
+}
+
+.container-fluid{
+
+	text-align: center;
+}
+
+#Shop-Text{
+
+
+	font-weight: 2px;
+	font-family: Arial;
+	text-align: center;
+	position: relative;
+
+}
